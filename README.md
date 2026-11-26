@@ -2,6 +2,10 @@
 
 Let's Chess is a premium, mobile-first chess app. You can play an AI on three difficulty levels, or hand the phone to a friend for pass-and-play. Games have real clocks, the complete rules of chess, standard notation, automatic save and resume, and personal statistics.
 
+## Application Preview
+
+![Photo Editor](/public/images/screenshot-chess.png)
+
 ## Features
 
 - **Play the computer** on Easy, Medium or Hard as White, Black or Random. The engine runs in a Web Worker.
